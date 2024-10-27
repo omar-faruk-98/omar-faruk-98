@@ -1,0 +1,9 @@
+git config --global user.name "faruk98"
+git config --global user.mail "faruk15198@gmail.com"
+git init
+git add <file>
+git diff
+git status
+git restore <file>
+
+git commit -m "Faruk Omar"
